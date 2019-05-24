@@ -1,1 +1,0 @@
-本章节主要介绍基于Android系统的小农商家收银APP的技术背景，包括MVVM开发模式，主流第三方开发框架包含异步框架Rxjava2，网络请求库Retrofit2，依赖注入框架Dagger2等
